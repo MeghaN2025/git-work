@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+ this is file1 from dev2
+=======
+this is file1 from dev1 dev2
+>>>>>>> subbranch
+i am testing it
